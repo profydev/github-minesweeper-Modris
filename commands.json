@@ -26,7 +26,7 @@
 	"flag H1",
 	"flag A2",
 	"clear B8",
-	"flag C8"
-	
+	"flag C8",
+	"end"
 	]
 }
