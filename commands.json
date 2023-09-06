@@ -1,12 +1,4 @@
 {
-  "commands": [
-	"clear D5",
-	"flag D2",
-	"flag G5",
-	"clear G6",
-	"flag G7",
-	"clear H7",
-	"clear H6",
 	"clear H5",
 	"clear H4",
 	"flag H3",
@@ -15,5 +7,6 @@
 	"clear D1",
 	"clear C2",
 	"clear B2"
+
 	]
 }
