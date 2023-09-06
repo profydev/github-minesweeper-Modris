@@ -1,4 +1,7 @@
 {
-  "commands": [
-	"clear D5"
+	"clear D5",
+	"flag D2",
+	"flag G5",
+	"clear G6"
+	]
 }
